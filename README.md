@@ -64,10 +64,11 @@ app/
 
 The application was verified to function correctly in both portrait and landscape orientations on:
 
-| Device                          | Type                    | Status |
-| ------------------------------- | ----------------------- | ------ |
+| Device                          | Type                    |  Status  |
+| ------------------------------- | ----------------------- | -------- |
 | Nothing Phone (3a) Pro          | Physical Android Device | Verified |
 | Pixel Emulator (Android Studio) | Emulator                | Verified |
+| Pixel 4 XL (Android Studio)     | Emulator                | Verified |
 
 ---
 

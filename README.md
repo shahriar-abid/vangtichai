@@ -75,6 +75,8 @@ The application was verified to function correctly in both portrait and landscap
 
 AI (ChatGPT) was used as a learning and guidance tool during the development of this project. It assisted in understanding Android Studio, Kotlin programming concepts, XML layouts, resource management, and debugging. The application was implemented, modified, and tested by the author based on those concepts.
 
+A formal declaration is also available in the [docs/](docs/) folder.
+
 ---
 
 ## Author

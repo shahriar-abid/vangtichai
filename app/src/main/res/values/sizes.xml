@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="amount_text_size">28sp</dimen>
+    <dimen name="counter_text_size">20sp</dimen>
+    <dimen name="button_text_size">18sp</dimen>
+    <dimen name="clear_button_text_size">16sp</dimen>
+
+
+    <dimen name="screen_padding">16dp</dimen>
+    <dimen name="title_margin_top">70dp</dimen>
+    <dimen name="main_margin_top">170dp</dimen>
+    <dimen name="counter_margin_bottom">18dp</dimen>
+    <dimen name="left_panel_margin_end">16dp</dimen>
+    <dimen name="keypad_margin_top">50dp</dimen>
+
+
+    <dimen name="left_panel_width">115dp</dimen>
+    <dimen name="space_width">40dp</dimen>
+
+    <dimen name="button_width">60dp</dimen>
+    <dimen name="button_height">50dp</dimen>
+
+    <dimen name="clear_button_width">126dp</dimen>
+
+</resources>
